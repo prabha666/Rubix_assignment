@@ -1,0 +1,21 @@
+#main{
+    margin-top: 2rem;
+    background-color: #8e1250;
+    padding: 2rem 0 2rem 8rem;
+    color: white;
+    justify-content: absolute;
+    
+}
+.para{
+    width: 81%;
+    margin-right: 20px;
+    margin-left: 50px;
+    justify-content: absolute;
+    /* padding: 0 0 0 8rem; */
+}
+#heading{
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 50px;
+}

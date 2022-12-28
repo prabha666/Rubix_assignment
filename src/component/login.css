@@ -1,0 +1,38 @@
+.main_form{
+    display: flex;
+    border: 1px solid black;
+    max-width: 70%;
+    margin: 3rem auto;
+    justify-content: center;
+}
+#content{
+
+    max-width: 35%;
+    padding: 2rem;
+    border-right: 1px solid;
+    height: 25rem;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    justify-content: center;
+    
+}
+#form{
+    font-size: 20px;
+    padding: 2rem;
+    margin-left: 30px;
+}
+input{
+    width: 25rem;
+    height: 2.5rem;
+    margin-left: 5px;
+}
+label{
+    margin-top: 10px;
+}
+button{
+    width: 25rem;
+    height: 3em;
+    background-color: #000000;
+    color: white;
+    border: none;
+}

@@ -1,0 +1,26 @@
+.Content_main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    font-size: 1rem;
+    margin-right: 150px;
+    margin-left: 160px;
+    
+}
+.container{
+    width: 40%;
+    margin-right: 20px;
+  
+    
+}
+img{
+   /* border-top: 3px solid brown ; */
+   
+   padding: 2px;
+    width: 350px;
+    margin-right: 30px;
+}
+.line{
+    width: 50%;
+    border-top: 3px solid brown ;
+}
